@@ -1,0 +1,15 @@
+D:\HW2\Second\Third\bin\Debug\net6.0\Third.exe
+D:\HW2\Second\Third\bin\Debug\net6.0\Third.deps.json
+D:\HW2\Second\Third\bin\Debug\net6.0\Third.runtimeconfig.json
+D:\HW2\Second\Third\bin\Debug\net6.0\Third.dll
+D:\HW2\Second\Third\bin\Debug\net6.0\Third.pdb
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.csproj.AssemblyReference.cache
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.AssemblyInfoInputs.cache
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.AssemblyInfo.cs
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.csproj.CoreCompileInputs.cache
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.dll
+D:\HW2\Second\Third\obj\Debug\net6.0\refint\Third.dll
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.pdb
+D:\HW2\Second\Third\obj\Debug\net6.0\Third.genruntimeconfig.cache
+D:\HW2\Second\Third\obj\Debug\net6.0\ref\Third.dll

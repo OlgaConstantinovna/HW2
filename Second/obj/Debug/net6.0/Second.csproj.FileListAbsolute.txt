@@ -1,0 +1,15 @@
+D:\HW2\Second\bin\Debug\net6.0\Second.exe
+D:\HW2\Second\bin\Debug\net6.0\Second.deps.json
+D:\HW2\Second\bin\Debug\net6.0\Second.runtimeconfig.json
+D:\HW2\Second\bin\Debug\net6.0\Second.dll
+D:\HW2\Second\bin\Debug\net6.0\Second.pdb
+D:\HW2\Second\obj\Debug\net6.0\Second.csproj.AssemblyReference.cache
+D:\HW2\Second\obj\Debug\net6.0\Second.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW2\Second\obj\Debug\net6.0\Second.AssemblyInfoInputs.cache
+D:\HW2\Second\obj\Debug\net6.0\Second.AssemblyInfo.cs
+D:\HW2\Second\obj\Debug\net6.0\Second.csproj.CoreCompileInputs.cache
+D:\HW2\Second\obj\Debug\net6.0\Second.dll
+D:\HW2\Second\obj\Debug\net6.0\refint\Second.dll
+D:\HW2\Second\obj\Debug\net6.0\Second.pdb
+D:\HW2\Second\obj\Debug\net6.0\Second.genruntimeconfig.cache
+D:\HW2\Second\obj\Debug\net6.0\ref\Second.dll

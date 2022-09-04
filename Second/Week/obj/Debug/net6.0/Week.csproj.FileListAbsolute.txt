@@ -1,0 +1,15 @@
+D:\HW2\Second\Week\bin\Debug\net6.0\Week.exe
+D:\HW2\Second\Week\bin\Debug\net6.0\Week.deps.json
+D:\HW2\Second\Week\bin\Debug\net6.0\Week.runtimeconfig.json
+D:\HW2\Second\Week\bin\Debug\net6.0\Week.dll
+D:\HW2\Second\Week\bin\Debug\net6.0\Week.pdb
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.csproj.AssemblyReference.cache
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.AssemblyInfoInputs.cache
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.AssemblyInfo.cs
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.csproj.CoreCompileInputs.cache
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.dll
+D:\HW2\Second\Week\obj\Debug\net6.0\refint\Week.dll
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.pdb
+D:\HW2\Second\Week\obj\Debug\net6.0\Week.genruntimeconfig.cache
+D:\HW2\Second\Week\obj\Debug\net6.0\ref\Week.dll
